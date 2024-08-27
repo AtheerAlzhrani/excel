@@ -1,3 +1,12 @@
+## In 2011, the estimated life expectancy at birth in Saudi Arabia varied by gender. Based on available data from that time:
+
+For males (e(0)): The life expectancy was approximately 74 years.
+For females (e(0)): The life expectancy was about 77 years.
+These figures indicate a slight difference in life expectancy between genders, with females generally living longer than males.
+
+![image](https://github.com/user-attachments/assets/4000ad34-ec22-4851-9fad-94882c1d182e)
+
+
 #### تمثيل بياني لعدد حالات الاصابة بضربة شمس
 قمت بعمل تمثيل بياني لعدد حالات الاصابة بضربة شمس حصلت على هذه البيانات من موقع البيانات المفتوحة، و تحتوي مجموعة البيانات هذه على عدد البلاغات التي باشرها الهلال الاحمر لحالات ناجمه عن ارتفاع درجة حرارة الشمس نتيجة التعرض لفترات طويلة لدرجات لحرارة عالية او تحت اشعة الشمس.
 ![image](https://github.com/user-attachments/assets/5ef5ff03-0db1-456a-a22b-2cef41717eb6)
