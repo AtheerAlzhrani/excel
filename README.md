@@ -4,7 +4,7 @@
 * Females: Life expectancy at birth was around 81 years.
 
   
-These updated figures reflect a notable difference in life expectancy between genders
+These figures reflect a notable difference in life expectancy between genders
 
 ![image](https://github.com/user-attachments/assets/4000ad34-ec22-4851-9fad-94882c1d182e)
 
