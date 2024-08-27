@@ -11,7 +11,8 @@ These figures reflect a notable difference in life expectancy between genders
 
 #### تمثيل بياني لعدد حالات الاصابة بضربة شمس
 قمت بعمل تمثيل بياني لعدد حالات الاصابة بضربة شمس حصلت على هذه البيانات من موقع البيانات المفتوحة، و تحتوي مجموعة البيانات هذه على عدد البلاغات التي باشرها الهلال الاحمر لحالات ناجمه عن ارتفاع درجة حرارة الشمس نتيجة التعرض لفترات طويلة لدرجات لحرارة عالية او تحت اشعة الشمس.
-![image](https://github.com/user-attachments/assets/5ef5ff03-0db1-456a-a22b-2cef41717eb6)
+![image](https://github.com/user-attachments/assets/22d7cf8c-dca4-4234-ad8f-36a969068fc0)
+
 
 
 ### KSA Population Dashboard
