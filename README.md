@@ -1,7 +1,7 @@
 ## In 2011, the estimated life expectancy at birth in Saudi Arabia varied by gender. Based on available data from that time:
 
-For males (e(0)): The life expectancy was approximately 74 years.
-For females (e(0)): The life expectancy was about 77 years.
+For males (e(0)): The life expectancy was approximately 75 years.
+For females (e(0)): The life expectancy was about 81 years.
 These figures indicate a slight difference in life expectancy between genders, with females generally living longer than males.
 
 ![image](https://github.com/user-attachments/assets/4000ad34-ec22-4851-9fad-94882c1d182e)
