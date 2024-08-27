@@ -10,7 +10,6 @@ These figures reflect a notable difference in life expectancy between genders
 
 
 #### تمثيل بياني لإجمالي عدد الإصابات بضربة شمسية حسب المدينة لعام 2023م
-![image](https://github.com/user-attachments/assets/796659dd-294d-4e12-884e-ec9adf78311c)
 
 قمت بعمل تمثيل بياني لعدد حالات الاصابة بضربة شمس حصلت على هذه البيانات من موقع البيانات المفتوحة، و تحتوي مجموعة البيانات هذه على عدد البلاغات التي باشرها الهلال الاحمر لحالات ناجمه عن ارتفاع درجة حرارة الشمس نتيجة التعرض لفترات طويلة لدرجات لحرارة عالية او تحت اشعة الشمس.
 ![image](https://github.com/user-attachments/assets/22d7cf8c-dca4-4234-ad8f-36a969068fc0)
