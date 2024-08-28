@@ -6,9 +6,8 @@
   
 These figures reflect a notable difference in life expectancy between genders
 
-![image](https://github.com/user-attachments/assets/4000ad34-ec22-4851-9fad-94882c1d182e)
-![image](https://github.com/user-attachments/assets/5952ba71-1e20-43ae-848a-9da6f90b9444)
-![image](https://github.com/user-attachments/assets/6671784f-87d5-4ba2-8d02-99edf31928e0)
+![image](https://github.com/user-attachments/assets/9b2de2a3-a427-4792-97eb-9ff4962f6890)
+
 
 
 
