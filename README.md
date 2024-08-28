@@ -1,14 +1,14 @@
 ## In 2011, the estimated life expectancy at birth in Saudi Arabia varied by gender. Based on available data from that time:
 
-* Males: Life expectancy at birth was about 75 years.
-* Females: Life expectancy at birth was around 81 years.
+* Males: The average life expectancy at birth was about 75 years.
+* Females: The average live expectancy at birth was around 81 years.
 
   
-These figures reflect a notable difference in life expectancy between genders
+These figures reflect a notable difference in the The average life expectancy between genders
 ![image](https://github.com/user-attachments/assets/930998a1-0a53-4ee7-9a51-a7f63638f671)
 
 
-![image](https://github.com/user-attachments/assets/9b2de2a3-a427-4792-97eb-9ff4962f6890)
+
 
 
 
